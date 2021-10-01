@@ -13,13 +13,13 @@ theme                    : jekyll-theme-minimal
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Soumya Dutta"
+title                    : "Abhipsa Basu"
 title_separator          : "-"
-name                     : &name "Soumya Dutta"
-description              : &description "A personal blog of  Soumya Dutta"
-url                      : "https://soumya-dutta.github.io"
+name                     : &name "Abhipsa Basu"
+description              : &description "A personal blog of Abhipsa Basu"
+url                      : "https://abhipsa-basu.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-gh_repo                  : "Soumya-dutta.github.io"
+gh_repo                  : "Abhipsa-basu.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 160
@@ -71,24 +71,24 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Soumya Dutta"
+  name             : "Abhipsa Basu"
   avatar           : "picture-min.jpg"
   bio              : "PhD Student IISC Bangalore"
   location         : "India"
-  email            : "soumya.besuee@gmail.com"
+  email            : "abhipsabasu@iisc.ac.in"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "soumya.dutta.3367"
+  facebook         : "abhipsa.basu"
   foursquare       :
-  github           : "Soumya-dutta"
+  github           : "abhipsabasu"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "soumya-dutta-b874a7104"
+  linkedin         : "abhipsa-basu-526ba0152"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
