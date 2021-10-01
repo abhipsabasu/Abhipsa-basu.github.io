@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Recent Projects
 ======
 * The [TextKVQA project](https://github.com/abhipsabasu/TextKVQA) (DLCV Course Work)
 * [Sentiment Classification](https://github.com/abhipsabasu/Pytorch_sentiment_analysis) in Pytorch
